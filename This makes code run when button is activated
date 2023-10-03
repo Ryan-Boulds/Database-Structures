@@ -1,0 +1,5 @@
+    static class Action1 implements ActionListener {
+        public void actionPerformed (ActionEvent e) {
+            //Write what button does here
+        }
+    }
